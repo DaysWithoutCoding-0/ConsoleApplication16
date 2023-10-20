@@ -2,4 +2,4 @@
 #include <iostream>
 #include <vector>
 
-void printVector(std::vector<MoneyStruct>& money);
+void moneyData(ifstream& file, vector<MoneyStruct>& money);

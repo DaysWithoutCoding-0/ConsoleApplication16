@@ -18,13 +18,13 @@
     <ClCompile Include="ConsoleApplication16.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="date_Methods.cpp">
+    <ClCompile Include="dateMethods.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="money_methods.cpp">
+    <ClCompile Include="moneyMethods.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="m_data.cpp">
+    <ClCompile Include="moneyData.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="print.cpp">
@@ -35,13 +35,13 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="money_Struct.h">
+    <ClInclude Include="moneyStruct.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="dateStruct.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="m_data.h">
+    <ClInclude Include="moneyData.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

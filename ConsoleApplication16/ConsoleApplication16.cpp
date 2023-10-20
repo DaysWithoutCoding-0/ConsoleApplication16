@@ -1,9 +1,6 @@
-﻿#include "m_data.h"
+﻿#include "moneyData.h"
 #include <vector>
 #include "print.h"
-
-using namespace std;
-
 
 int main()
 {
@@ -12,9 +9,9 @@ int main()
 
 	if (file.is_open()) 
 	{
-		vector <MoneyStruct> money;
-		m_data(file, money);
-		print_vector(money);
+		std::vector <MoneyStruct> money;
+		moneyData(file, money);
+		printVector(money);
 	}
 }
 

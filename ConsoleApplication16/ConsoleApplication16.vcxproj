@@ -128,16 +128,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ConsoleApplication16.cpp" />
-    <ClCompile Include="date_Methods.cpp" />
-    <ClCompile Include="money_methods.cpp" />
-    <ClCompile Include="m_data.cpp" />
+    <ClCompile Include="dateMethods.cpp" />
+    <ClCompile Include="moneyMethods.cpp" />
+    <ClCompile Include="moneyData.cpp" />
     <ClCompile Include="print.cpp" />
     <ClCompile Include="print.h" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="dateStruct.h" />
-    <ClInclude Include="money_Struct.h" />
-    <ClInclude Include="m_data.h" />
+    <ClInclude Include="moneyStruct.h" />
+    <ClInclude Include="moneyData.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,0 +1,7 @@
+﻿  ConsoleApplication16.cpp
+  moneyData.cpp
+  print.cpp
+  print.h
+  Создание кода...
+x64\Debug\print.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+  ConsoleApplication16.vcxproj -> C:\Users\Леонид\source\repos\ConsoleApplication16\x64\Debug\ConsoleApplication16.exe
